@@ -2,8 +2,8 @@
    This file is already linked from index.html. Write your rules below.
    Start by changing the body background colour and saving, to confirm the link works. */
 
-/* changing the background colour to light blue */
-body{background-color: #A5C4D4}
+/* changing the background colour to eggshell */
+body{background-color: #EEE2DF}
 /* changing paragraph text color to white, making the line height 2px tall */
 p{color:white; line-height:2px;}
 /* changing all headings text color to dark brown */
