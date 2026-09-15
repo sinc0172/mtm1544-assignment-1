@@ -1,9 +1,16 @@
 /* MTM1544 Week 1: your stylesheet.
    This file is already linked from index.html. Write your rules below.
    Start by changing the body background colour and saving, to confirm the link works. */
-body{background-color: #8499B1}
-/* paragraph-tags */
-p{color:white}
-p{line-height: 2px}
-/* heading-tags */
-h2{color: #493B2A}
+
+/* changing the background colour to light blue */
+body{background-color: #A5C4D4}
+/* changing paragraph text color to white, making the line height 2px tall */
+p{color:white; line-height:2px;}
+/* changing all headings text color to dark brown */
+h1, h2{color: #493B2A}
+/* changing the text color of the intro paragraph and the font size */
+.intro{color: #593F62; font-size:16px}
+/* changing the text color of the summit climb heading and the font size */
+#summit{color:goldenrod; font-size:24px}
+/* changing h1 text color to green */
+h1{color:#91A550}
